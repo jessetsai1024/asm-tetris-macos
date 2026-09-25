@@ -1,0 +1,7 @@
+# 編譯出來的程式（用 ./build.sh 重新產生）
+/tetris
+/tetris_window
+
+# 本機設定與系統檔
+.claude/
+.DS_Store
